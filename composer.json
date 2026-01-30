@@ -1,0 +1,7 @@
+{
+  "name": "owen/encrypt-package",
+  "description": "laravel6.0控制器参数加解密示例",
+  "type": "library",
+  "license": "MIT",
+  "require": {}
+}
